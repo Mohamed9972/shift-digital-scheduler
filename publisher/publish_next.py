@@ -203,6 +203,7 @@ def publish_reel(item, g, repo_root, dry):
     log(f"[reel] Instagram published: {ig_media_id}")
     # Cross-post to Facebook if page_id configured
     fb_media_id = None
+    log(f"[reel] fb_page_id={fb_page_id}, calling fb cross-post")
     if fb_page_id:
         fb_media_id = publish_to_facebook_reel(g, fb_page_id, str(video), item["caption"])
     return {"media_id": ig_media_id, "container_id": cid, "fb_media_id": fb_media_id}
