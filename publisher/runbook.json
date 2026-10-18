@@ -478,8 +478,8 @@
         "#Hospitality"
       ],
       "assets": {
-        "video": "media/reels/D19-hotel-plan-reservation/final.mp4",
-        "cover": "media/reels/D19-hotel-plan-reservation/cover.jpg"
+        "video": "media/reels/D19-hotel-plan/final.mp4",
+        "cover": "media/reels/D19-hotel-plan/cover.jpg"
       },
       "status": "planned"
     },
@@ -546,8 +546,8 @@
         "#SiteWeb"
       ],
       "assets": {
-        "video": "media/reels/D22-immobilier-visite/final.mp4",
-        "cover": "media/reels/D22-immobilier-visite/cover.jpg"
+        "video": "media/reels/D22-immobilier/final.mp4",
+        "cover": "media/reels/D22-immobilier/cover.jpg"
       },
       "status": "planned"
     },
