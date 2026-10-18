@@ -1,0 +1,743 @@
+{
+  "generated": "2026-10-17T18:20:00Z",
+  "tz": "Africa/Tunis UTC+01:00 (fixed, no DST)",
+  "period_start": "2026-10-19",
+  "period_end": "2026-11-17",
+  "items": [
+    {
+      "day": 1,
+      "slug": "ig-limites",
+      "kind": "REELS",
+      "date": "2026-10-19",
+      "time_tunis": "19:00",
+      "time_utc": "18:00",
+      "title": "Instagram n'est pas ton site",
+      "caption": "Ton Instagram t'appartient à moitié. Ton site, à 100%.\n\nVitrine, réservation, contact : tout ce qu'un client cherche — sans dépendre d'un algorithme.\n\nDis-nous ton secteur en DM ↓\n\n#Tunisie #WebDesign #SiteWeb #DeveloppementWeb #Tunis",
+      "alt_text": "Reel noir et lime : barre de recherche, vitrine de site, carte de réservation. Texte : ton site t'appartient à 100%.",
+      "dm_keyword": "Dis-nous ton secteur en DM — tu reçois une idée de concept.",
+      "hashtags": [
+        "#Tunisie",
+        "#WebDesign",
+        "#SiteWeb",
+        "#DeveloppementWeb",
+        "#Tunis"
+      ],
+      "assets": {
+        "video": "media/reels/D01-ig-limites/final.mp4",
+        "cover": "media/reels/D01-ig-limites/cover.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 2,
+      "slug": "ig-only-limites",
+      "kind": "CAROUSEL",
+      "date": "2026-10-20",
+      "time_tunis": "12:30",
+      "time_utc": "11:30",
+      "title": "Instagram only : 5 limites",
+      "caption": "Instagram = super vitrine. Camion de livraison vers TON site = mieux.\n\n1️⃣ Pas de panier classique\n2️⃣ Menu éparpillé en images\n3️⃣ Impossible de tout référencer sur Google\n4️⃣ Ton nom de domaine, tu ne l'as pas\n5️⃣ Changement d'algorithme, adieu les clients\n\nUn site remet tout ça de ton côté.\n\nInsta behi, amma site : panier propre, menu net, Google yochoufik. 7 jetzt de business - de ton cote, sous ton nom.\n\n#Tunisie #Business #Entrepreneuriat #SiteWeb #InstagramBusiness",
+      "alt_text": "Carrousel noir/lime listant 5 limites d'un business uniquement sur Instagram.",
+      "dm_keyword": "Sauvegarde le post & repasse quand tu dodes de lancer.",
+      "hashtags": [
+        "#Tunisie",
+        "#Business",
+        "#Entrepreneuriat",
+        "#SiteWeb",
+        "#InstagramBusiness"
+      ],
+      "assets": {
+        "images": [
+          "media/graphics/D02-ig-only-limites/01-cover.jpg",
+          "media/graphics/D02-ig-only-limites/02-rows.jpg",
+          "media/graphics/D02-ig-only-limites/03-rows.jpg",
+          "media/graphics/D02-ig-only-limites/04-statement.jpg",
+          "media/graphics/D02-ig-only-limites/05-end.jpg"
+        ]
+      },
+      "status": "planned"
+    },
+    {
+      "day": 3,
+      "slug": "quote-24-7",
+      "kind": "IMAGE",
+      "date": "2026-10-21",
+      "time_tunis": "19:00",
+      "time_utc": "18:00",
+      "title": "Quote poster : boutique ouverte 24/7",
+      "caption": "La boutique ferme à 21h. Le site, jamais.\n\nChaque heure sans site web, ce sont des clients qui scrollent ailleurs.\n\nPartage à un gérant qui en a besoin ↓\n\n#Tunisie #PhraseMotivationBusiness #SiteWeb",
+      "alt_text": "Poster noir Space Grotesk : une boutique n'est ouverte que 24h/24 en ligne.",
+      "dm_keyword": "Partage à un gérant qui ferme son shop le dimanche — son site reste ouvert.",
+      "hashtags": [
+        "#Tunisie",
+        "#PhraseMotivationBusiness",
+        "#SiteWeb"
+      ],
+      "assets": {
+        "image": "media/graphics/D03-quote-24-7/01-cover.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 4,
+      "slug": "ecommerce-checklist",
+      "kind": "CAROUSEL",
+      "date": "2026-10-22",
+      "time_tunis": "12:30",
+      "time_utc": "11:30",
+      "title": "Ta boutique en ligne est-elle prête ?",
+      "caption": "Checklist é-com du lancement, propre : :\n\n✅ Catalogue filtrable\n✅ Panier en 3 clics max\n✅ Livraison expliquée (zones, délais)\n✅ Paiement à la livraison assumé\n✅ Photos réelles, pas volées\n✅ Contact humain visible\n\nIl manque un point ? Envoie 'CHECK' en DM ↓\n\nCatalogue behi, panier fisa3, livraison mo3arfa ? Envoie 'CHECK' fi DM.\n\n#Ecommerce #Tunisie #VenteEnLigne #Shopify #BusinessTn",
+      "alt_text": "Carrousel paper check-list : 6 critères avant de lancer sa boutique en ligne.",
+      "dm_keyword": "Un point manquant ? Envoie 'CHECK' en DM.",
+      "hashtags": [
+        "#Ecommerce",
+        "#Tunisie",
+        "#VenteEnLigne",
+        "#Shopify",
+        "#BusinessTn"
+      ],
+      "assets": {
+        "images": [
+          "media/graphics/D04-ecommerce-checklist/01-cover.jpg",
+          "media/graphics/D04-ecommerce-checklist/02-checks.jpg",
+          "media/graphics/D04-ecommerce-checklist/03-checks.jpg",
+          "media/graphics/D04-ecommerce-checklist/04-statement.jpg",
+          "media/graphics/D04-ecommerce-checklist/05-end.jpg"
+        ]
+      },
+      "status": "planned"
+    },
+    {
+      "day": 5,
+      "slug": "resto-menu",
+      "kind": "REELS",
+      "date": "2026-10-23",
+      "time_tunis": "19:00",
+      "time_utc": "18:00",
+      "title": "Resto : le menu en ligne",
+      "caption": "Un menu en photo = menu qu'on zoom 3 fois et qu'on comprend à moitié.\n\nUn menu en ligne = categories claires, prix nets, commande en clic.\n\nRestaurant ou café en Tunisie ? Envoie 'MENU' en DM ↓\n\nMenu mou3a9ed f photo ? Envoie 'MENU' — nsawrou menu online wed7a7.\n\n#Restaurant #Tunisie #DigitalMenu #Cafe #FoodBusiness",
+      "alt_text": "Reel sombre démo : menu digital de restaurant avec plats, prix et bouton commander.",
+      "dm_keyword": "Restaurant ou café ? Envoie 'MENU' en DM.",
+      "hashtags": [
+        "#Restaurant",
+        "#Tunisie",
+        "#DigitalMenu",
+        "#Cafe",
+        "#FoodBusiness"
+      ],
+      "assets": {
+        "video": "media/reels/D05-resto-menu/final.mp4",
+        "cover": "media/reels/D05-resto-menu/cover.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 6,
+      "slug": "resto-essentials",
+      "kind": "CAROUSEL",
+      "date": "2026-10-24",
+      "time_tunis": "12:30",
+      "time_utc": "11:30",
+      "title": "Resto / café : ce que ton site doit avoir",
+      "caption": "Si ton resto a un site, il doit régler ÇA en priorité :\n\n1. Horaires + carte à jour (jamais de « fermé temporairement » qui traîne)\n2. Le menu — lisible, sans PDF de 8 Mo\n3. Réservation en 2 clics\n4. Maps + itinéraire\n5. Vraies photos des plats\n6. WhatsApp direct\n\nLe reste, c'est du bonus.\n\n#Restaurant #Cafe #Tunisie #SiteWeb #RestoBusiness",
+      "alt_text": "Carrousel papier listant les 6 éléments essentiels d'un site de restaurant.",
+      "dm_keyword": "Envoie 'ESSENTIELS' en DM pour la version complète.",
+      "hashtags": [
+        "#Restaurant",
+        "#Cafe",
+        "#Tunisie",
+        "#SiteWeb",
+        "#RestoBusiness"
+      ],
+      "assets": {
+        "images": [
+          "media/graphics/D06-resto-essentials/01-cover.jpg",
+          "media/graphics/D06-resto-essentials/02-rows.jpg",
+          "media/graphics/D06-resto-essentials/03-rows.jpg",
+          "media/graphics/D06-resto-essentials/04-statement.jpg",
+          "media/graphics/D06-resto-essentials/05-end.jpg"
+        ]
+      },
+      "status": "planned"
+    },
+    {
+      "day": 7,
+      "slug": "demo-live-salim",
+      "kind": "IMAGE",
+      "date": "2026-10-25",
+      "time_tunis": "12:30",
+      "time_utc": "11:30",
+      "title": "Projet réel : la démo live",
+      "caption": "Pas une maquette. Pas une idée. Une vraie interface, construite et craftée pixel par pixel.\n\n(Capture réelle d'un projet client. Lecture seule.)\n\nEnvoie 'PROJET' en DM pour une visite guidée ↓\n\n#Portfolio #WebDesign #Tunisie #VraiProjet",
+      "alt_text": "Poster noir affichant une capture d'écran réelle d'un site web livré avec badge 'démo live'.",
+      "dm_keyword": "Tu veux voir plus en détail ? Envoie 'PROJET' en DM.",
+      "hashtags": [
+        "#Portfolio",
+        "#WebDesign",
+        "#Tunisie",
+        "#VraiProjet"
+      ],
+      "assets": {
+        "image": "media/graphics/D07-demo-live-salim/01-image.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 8,
+      "slug": "ecom-trois-clics",
+      "kind": "REELS",
+      "date": "2026-10-26",
+      "time_tunis": "19:00",
+      "time_utc": "18:00",
+      "title": "E-commerce : 3 clics de moins",
+      "caption": "Catalogue propre. Panier simple. Paiement clair.\n\nC'est tout ce qu'il faut pour commencer à vendre en ligne en Tunisie. Le reste vient avec les ventes.\n\nEnvoie 'BOX' en DM ↓\n\n#Ecommerce #Tunisie #VendreEnLigne #BusinessTn",
+      "alt_text": "Reel sombre showing une boutique en ligne démo : carte produit, panier, prix en dinars.",
+      "dm_keyword": "Envoie 'BOX' en DM — on te dit si ton produit est éligible.",
+      "hashtags": [
+        "#Ecommerce",
+        "#Tunisie",
+        "#VendreEnLigne",
+        "#BusinessTn"
+      ],
+      "assets": {
+        "video": "media/reels/D08-ecom-trois-clics/final.mp4",
+        "cover": "media/reels/D08-ecom-trois-clics/cover.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 9,
+      "slug": "site-lent-causes",
+      "kind": "CAROUSEL",
+      "date": "2026-10-27",
+      "time_tunis": "12:30",
+      "time_utc": "11:30",
+      "title": "Site lent = client parti",
+      "caption": "Un site lent, ce n'est pas un mauvais hébergement. C'est presque toujours 5 causes précises :\n\n1. Photos plein format de 4 Mo\n2. Animations pour faire beau\n3. Hébergement discount le plus bas\n4. 6 polices chargées car 2 utiles\n5. Zéro pensée mobile-first\n\nShift Digital corrige ça au cahier des charges.\n\n#Performance #SiteWeb #Tunisie #PageSpeed #UX",
+      "alt_text": "Carrousel violet expliquant 5 causes d'un site lent et comment les corriger.",
+      "dm_keyword": "Envoie 'SPEED' en DM — on regarde ce qui pèse sur ta page.",
+      "hashtags": [
+        "#Performance",
+        "#SiteWeb",
+        "#Tunisie",
+        "#PageSpeed",
+        "#UX"
+      ],
+      "assets": {
+        "images": [
+          "media/graphics/D09-site-lent-causes/01-cover.jpg",
+          "media/graphics/D09-site-lent-causes/02-rows.jpg",
+          "media/graphics/D09-site-lent-causes/03-rows.jpg",
+          "media/graphics/D09-site-lent-causes/04-statement.jpg",
+          "media/graphics/D09-site-lent-causes/05-end.jpg"
+        ]
+      },
+      "status": "planned"
+    },
+    {
+      "day": 10,
+      "slug": "derja-tounsi",
+      "kind": "REELS",
+      "date": "2026-10-28",
+      "time_tunis": "21:00",
+      "time_utc": "20:00",
+      "title": "Toujours ya pas de site ?",
+      "caption": "En derja aujourd'hui — comme le reel le montre ↓\n\nInsta, Google, client — c'est pas le même métier.\n\nUn site web, c'est la pile où tout repose.\n\nEnvoie 'SITE' en DM ↓\n\nInsta, Google w el client — mch nafs el concept. Site web : el assas. Envoie 'SITE' fi DM.\n\n#Derja #Tunisie #BusinessTn #SiteWeb #EntrepreneurTunisien",
+      "alt_text": "Reel à typographie déroulé en derja tunisienne écrite en lettres latines avec accents lime.",
+      "dm_keyword": "Envoie 'SITE' en DM — bech n7kiw sur le concept, ma fkéch 3ad project.",
+      "hashtags": [
+        "#Derja",
+        "#Tunisie",
+        "#BusinessTn",
+        "#SiteWeb",
+        "#EntrepreneurTunisien"
+      ],
+      "assets": {
+        "video": "media/reels/D10-derja-tounsi/final.mp4",
+        "cover": "media/reels/D10-derja-tounsi/cover.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 11,
+      "slug": "catalogue-6-etapes",
+      "kind": "CAROUSEL",
+      "date": "2026-10-29",
+      "time_tunis": "12:30",
+      "time_utc": "11:30",
+      "title": "Tu vends sur mesure : catalogue digital en 6 étapes",
+      "caption": "Ton catalogue est sur WhatsApp, les photos en galerie privée ?\n\nC'est des ventes qui s'évaporent.\n\n6 étapes pour le passer en ligne :\n1. Structurer tes gammes\n2. Une photo signature par famille\n3. Fiches produits sobres\n4. Filtres simples\n5. Devis en 1 clic (ou panier)\n6. Index Google\n\nLe catalogue devient ton meilleur commercial — même de nuit.\n\n#Mobilier #Fashion #Tunisie #CatalogueDigital #B2B",
+      "alt_text": "Carrossel papier : 6 étapes pour passer un catalogue sur-mesure en ligne.",
+      "dm_keyword": "Dis-nous ton métier en commentaire ; on note l'idée pour toi.",
+      "hashtags": [
+        "#Mobilier",
+        "#Fashion",
+        "#Tunisie",
+        "#CatalogueDigital",
+        "#B2B"
+      ],
+      "assets": {
+        "images": [
+          "media/graphics/D11-catalogue-6-etapes/01-cover.jpg",
+          "media/graphics/D11-catalogue-6-etapes/02-steps.jpg",
+          "media/graphics/D11-catalogue-6-etapes/03-steps.jpg",
+          "media/graphics/D11-catalogue-6-etapes/04-statement.jpg",
+          "media/graphics/D11-catalogue-6-etapes/05-end.jpg"
+        ]
+      },
+      "status": "planned"
+    },
+    {
+      "day": 12,
+      "slug": "projet-reel",
+      "kind": "REELS",
+      "date": "2026-10-30",
+      "time_tunis": "19:00",
+      "time_utc": "18:00",
+      "title": "Projet réel : écran, navigation, réservation",
+      "caption": "Pas une maquette retouchée. Pas un template recyclé.\n\nUn écran, une navigation, une interface — c'est une preuve, pas une promesse.\n\nEnvoie 'DEMO' en DM ↓\n\n#Portfolio #WebDesign #Tunisie #VraiProjet",
+      "alt_text": "Reel sombre montrant la navigation réelle d'un site livré, avec étiquette LIVE.",
+      "dm_keyword": "Envoie 'DEMO' en DM — on te fait visiter le projet.",
+      "hashtags": [
+        "#Portfolio",
+        "#WebDesign",
+        "#Tunisie",
+        "#VraiProjet"
+      ],
+      "assets": {
+        "video": "media/reels/D12-projet-reel/final.mp4",
+        "cover": "media/reels/D12-projet-reel/cover.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 13,
+      "slug": "demo-live-artpsy",
+      "kind": "IMAGE",
+      "date": "2026-10-31",
+      "time_tunis": "12:30",
+      "time_utc": "11:30",
+      "title": "Second projet : la carte case",
+      "caption": "Deuxième extrait réel. Même standard : interface claire, flux net, zéro décoration gratuite.\n\n(Capture de session réelle — lecture seule.)\n\nEnvoie 'PORTFOLIO' en DM pour la visite ↓\n\n#Portfolio #UX #Tunisie #WebDesign",
+      "alt_text": "Fiche projet sur fond papier avec capture d'écran d'un site réel et étiquettes descriptives.",
+      "dm_keyword": "Deux projets, un même standard. Envoie 'PORTFOLIO' en DM.",
+      "hashtags": [
+        "#Portfolio",
+        "#UX",
+        "#Tunisie",
+        "#WebDesign"
+      ],
+      "assets": {
+        "image": "media/graphics/D13-demo-live-artpsy/01-image.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 14,
+      "slug": "offre-maquette",
+      "kind": "IMAGE",
+      "date": "2026-11-01",
+      "time_tunis": "21:00",
+      "time_utc": "20:00",
+      "title": "Offer poster : maquette gratuite",
+      "caption": "L'offre est simple :\n\nTu décris ton business en 3 lignes. On te construit une maquette de concept, gratuitement, sans engagement.\n\nTu vois d'abord. Tu décides après.\n\nEnvoie 'MAQUETTE' en DM ↓\n\nTa7ki business mte3ek f 3 stour. Na3mlou-lk maquette concept, gratuit. Tchouf 9bal ma tekhtar. 'MAQUETTE' fi DM.\n\n#Offre #WebDesign #Tunisie #MaquetteGratuite",
+      "alt_text": "Poster violet annonçant la maquette de concept gratuite sans engagement.",
+      "dm_keyword": "Envoie 'MAQUETTE' en DM — on te dit ce qu'on fait de ton secteur.",
+      "hashtags": [
+        "#Offre",
+        "#WebDesign",
+        "#Tunisie",
+        "#MaquetteGratuite"
+      ],
+      "assets": {
+        "image": "media/graphics/D14-offre-maquette/01-cover.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 15,
+      "slug": "trois-secondes",
+      "kind": "REELS",
+      "date": "2026-11-02",
+      "time_tunis": "19:00",
+      "time_utc": "18:00",
+      "title": "3 secondes",
+      "caption": "Un visiteur ne t'attend pas. Il attend que ta page réponde.\n\nDeux minutes sur le mobile de tes clients valent mieux que deux mois de redesign.\n\nEnvoie 'SPEED' en DM et on regarde ce qui pèse ↓\n\n#Performance #MobileFirst #Tunisie #SiteWeb #UX",
+      "alt_text": "Reel noir rythmé sur le principe des trois secondes d'attention d'un visiteur mobile.",
+      "dm_keyword": "Envoie 'SPEED' en DM — on te dit ce qui alourdit ta page d'accueil.",
+      "hashtags": [
+        "#Performance",
+        "#MobileFirst",
+        "#Tunisie",
+        "#SiteWeb",
+        "#UX"
+      ],
+      "assets": {
+        "video": "media/reels/D15-trois-secondes/final.mp4",
+        "cover": "media/reels/D15-trois-secondes/cover.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 16,
+      "slug": "automatisations-3",
+      "kind": "CAROUSEL",
+      "date": "2026-11-03",
+      "time_tunis": "12:30",
+      "time_utc": "11:30",
+      "title": "3 automatisations utiles dès lundi",
+      "caption": "L'automatisation utile, ce n'est pas un robot qui remplace ton équipe.\n\nC'est une équipe qui cesse de faire les trois même tâches chaque jour :\n\n1. Récap des commandes\n2. Rappel des rendez-vous\n3. Réponses aux questions répétées\n\nLe reste, ton métier s'en occupe. Envoie 'AUTO' en DM ↓\n\nAuto behi mch robot. Tâches l-koll youm el système y3mélhom. 'AUTO' + secteur mte3ek fi DM.\n\n#Automatisation #IA #Tunisie #PME #Productivite",
+      "alt_text": "Carrousel violet présentant 3 automatisations pratiques pour une PME tunisienne.",
+      "dm_keyword": "Envoie 'AUTO' en DM + ton secteur — on te dit ce qui est automatisable en premier.",
+      "hashtags": [
+        "#Automatisation",
+        "#IA",
+        "#Tunisie",
+        "#PME",
+        "#Productivite"
+      ],
+      "assets": {
+        "images": [
+          "media/graphics/D16-automatisations-3/01-cover.jpg",
+          "media/graphics/D16-automatisations-3/02-rows.jpg",
+          "media/graphics/D16-automatisations-3/03-statement.jpg",
+          "media/graphics/D16-automatisations-3/04-steps.jpg",
+          "media/graphics/D16-automatisations-3/05-end.jpg"
+        ]
+      },
+      "status": "planned"
+    },
+    {
+      "day": 17,
+      "slug": "automation-utile",
+      "kind": "REELS",
+      "date": "2026-11-04",
+      "time_tunis": "21:00",
+      "time_utc": "20:00",
+      "title": "L'automatisation utile",
+      "caption": "Ce que l'automatisation fait bien :\n—— Les tâches répétitives, quotidiennes, ennuyeuses.\n\nCe qu'elle ne remplace pas :\n—— Ton jugement, ton métier, ton contact humain.\n\nEnvoie 'AUTO' en DM pour un diagnostic honnête ↓\n\n#Automatisation #IA #Tunisie #Outils",
+      "alt_text": "Reel violet showant des tâches répétitives quittant une file humaine vers un pipeline automatique (démo conceptuelle).",
+      "dm_keyword": "Envoie 'AUTO' en DM — diagnostic de ce qui est automatisable chez toi.",
+      "hashtags": [
+        "#Automatisation",
+        "#IA",
+        "#Tunisie",
+        "#Outils"
+      ],
+      "assets": {
+        "video": "media/reels/D17-automation-utile/final.mp4",
+        "cover": "media/reels/D17-automation-utile/cover.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 18,
+      "slug": "cahier-des-charges",
+      "kind": "CAROUSEL",
+      "date": "2026-11-05",
+      "time_tunis": "12:30",
+      "time_utc": "11:30",
+      "title": "Avant / après : le cahier des charges",
+      "caption": "Un cahier des charges, ce n'est pas un formulaire. C'est l'acte qui empêche de designer à l'aveugle.\n\n(avant/après illustré, démo conceptuelle)\n\nEnvoie 'MAQUETTE' en DM ↓\n\n#UX #WebDesign #Tunisie #Methode",
+      "alt_text": "Carrossel papier comparant un cahier des charges vague et une version structurée.",
+      "dm_keyword": "Envoie 'MAQUETTE' en DM + ton secteur.",
+      "hashtags": [
+        "#UX",
+        "#WebDesign",
+        "#Tunisie",
+        "#Methode"
+      ],
+      "assets": {
+        "images": [
+          "media/graphics/D18-cahier-des-charges/01-cover.jpg",
+          "media/graphics/D18-cahier-des-charges/02-compare.jpg",
+          "media/graphics/D18-cahier-des-charges/03-checks.jpg",
+          "media/graphics/D18-cahier-des-charges/04-checks.jpg",
+          "media/graphics/D18-cahier-des-charges/05-statement.jpg",
+          "media/graphics/D18-cahier-des-charges/06-end.jpg"
+        ]
+      },
+      "status": "planned"
+    },
+    {
+      "day": 19,
+      "slug": "hotel-plan-reservation",
+      "kind": "REELS",
+      "date": "2026-11-06",
+      "time_tunis": "19:00",
+      "time_utc": "18:00",
+      "title": "Hôtel : du plan à la réservation",
+      "caption": "Le client choisit son séjour — et son bien — avant de visiter.\n\nUn site propre fait la moitié du travail : photos honnêtes, quartier net, un clic pour réserver.\n\nTu es dans l'hospitalité ? Envoie « SEJOUR » en DM ↓\n\n#Hotel #Immobilier #Tunisie #SiteWeb #Hospitality",
+      "alt_text": "Reel sombre : wireframe qui se transforme en interface premium d'hébergement.",
+      "dm_keyword": "Hôtel ou maison d'hôtes ? Envoie « SEJOUR » en DM.",
+      "hashtags": [
+        "#Hotel",
+        "#Immobilier",
+        "#Tunisie",
+        "#SiteWeb",
+        "#Hospitality"
+      ],
+      "assets": {
+        "video": "media/reels/D19-hotel-plan-reservation/final.mp4",
+        "cover": "media/reels/D19-hotel-plan-reservation/cover.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 20,
+      "slug": "erreurs-typo",
+      "kind": "IMAGE",
+      "date": "2026-11-07",
+      "time_tunis": "12:30",
+      "time_utc": "11:30",
+      "title": "Poster : police, contraste, poids — les 3 erreurs typographiques",
+      "caption": "Trois erreurs typographiques qui font fuir — vues bien trop souvent :\n\n1. Gris pâle sur fond gris\n2. Police scripte 45 px stockée\n3. Tout en gras = rien en gras\n\nLa lisibilité, elle, ne se négocie pas.\n\n#Typographie #UX #Tunisie #WebDesign #AccessibleDesign",
+      "alt_text": "Poster papier montrant trois erreurs typographiques communes et leur correction.",
+      "dm_keyword": "Partage à ton graphiste ou à un gérant qui doit relire son site.",
+      "hashtags": [
+        "#Typographie",
+        "#UX",
+        "#Tunisie",
+        "#WebDesign",
+        "#AccessibleDesign"
+      ],
+      "assets": {
+        "image": "media/graphics/D20-erreurs-typo/01-rows.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 21,
+      "slug": "speed-checklist",
+      "kind": "IMAGE",
+      "date": "2026-11-08",
+      "time_tunis": "12:30",
+      "time_utc": "11:30",
+      "title": "Poster : checklist rapide (mobile)",
+      "caption": "Checklist vitesse, version mobile — les basiques qui font la différence :\n\n□ Images compressées\n□ Lazy-load sur tout le bas de page\n□ 2 polices max\n□ Un clic = une action\n□ Testé sur un vrai réseau 4G\n\nEnvoie 'SPEED' en DM ↓\n\n#Performance #MobileFirst #Tunisie #UX",
+      "alt_text": "Poster noir checklist de performance mobile en 5 points.",
+      "dm_keyword": "Envoie 'SPEED' en DM pour un spot-check honnête.",
+      "hashtags": [
+        "#Performance",
+        "#MobileFirst",
+        "#Tunisie",
+        "#UX"
+      ],
+      "assets": {
+        "image": "media/graphics/D21-speed-checklist/01-checks.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 22,
+      "slug": "immobilier-visite",
+      "kind": "REELS",
+      "date": "2026-11-09",
+      "time_tunis": "19:00",
+      "time_utc": "18:00",
+      "title": "Immobilier : visite d'abord en ligne",
+      "caption": "Ton client fait un premier tri en ligne — avec ou sans toi.\n\nAvec un site : photos nettes, quartier clair, RDV en un clic.\nSans : il avance sur les listings des autres.\n\nEnvoie 'VISITE' en DM ↓\n\n#Immobilier #Tunisie #AgenceImmobiliere #SiteWeb",
+      "alt_text": "Reel sombre demo immobilier : recherche, grille de biens, fiche, bouton rendez-vous.",
+      "dm_keyword": "Agence immobilière ? Envoie 'VISITE' en DM.",
+      "hashtags": [
+        "#Immobilier",
+        "#Tunisie",
+        "#AgenceImmobiliere",
+        "#SiteWeb"
+      ],
+      "assets": {
+        "video": "media/reels/D22-immobilier-visite/final.mp4",
+        "cover": "media/reels/D22-immobilier-visite/cover.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 23,
+      "slug": "choisir-prestataire",
+      "kind": "CAROUSEL",
+      "date": "2026-11-10",
+      "time_tunis": "12:30",
+      "time_utc": "11:30",
+      "title": "10 questions avant de choisir ton prestataire web",
+      "caption": "10 questions qui trient les bons des mauvais prestataires :\n\nAVANT :\n1. Tu as des liens de projets réels ?\n2. Qui est responsable de mon contenu ?\n3. Qui héberge ? À mon nom ?\n\nPENDANT :\n4. Je vois le projet en ligne, je reçois un ZIP final un jour ?\n5. Le délai est écrit où ?\n6. Que se passe-t-il si je ne fournis pas mes photos à temps ?\n\nAPRÈS :\n7. Qui corrige les bugs ?\n8. Je peux reprendre les accès ?\n9. Combien pour les modifications après livraison ?\n10. Que se passe-t-il si vous disparaissez ?\n\nEnvoie ce post même si tu ne nous choisis pas.\n\n#WebDesign #Tunisie #ChoisirUnPrestataire #BusinessTn",
+      "alt_text": "Carrossel noir listant 10 questions à poser avant de choisir un prestataire web.",
+      "dm_keyword": "Envoie ces questions à ton prestataire — même si ce n'est pas nous.",
+      "hashtags": [
+        "#WebDesign",
+        "#Tunisie",
+        "#ChoisirUnPrestataire",
+        "#BusinessTn"
+      ],
+      "assets": {
+        "images": [
+          "media/graphics/D23-choisir-prestataire/01-cover.jpg",
+          "media/graphics/D23-choisir-prestataire/02-rows.jpg",
+          "media/graphics/D23-choisir-prestataire/03-rows.jpg",
+          "media/graphics/D23-choisir-prestataire/04-rows.jpg",
+          "media/graphics/D23-choisir-prestataire/05-rows.jpg",
+          "media/graphics/D23-choisir-prestataire/06-statement.jpg",
+          "media/graphics/D23-choisir-prestataire/07-end.jpg"
+        ]
+      },
+      "status": "planned"
+    },
+    {
+      "day": 24,
+      "slug": "behind-build",
+      "kind": "REELS",
+      "date": "2026-11-11",
+      "time_tunis": "21:00",
+      "time_utc": "20:00",
+      "title": "Behind the build",
+      "caption": "Un site qui tourne, c'est ce que tu ne vois pas : la structure, la vitesse, la patience du détail.\n\n(derrière la scène, en vrai temps, après-traitement)\n\nEnvoie 'PROJET' en DM ↓\n\n#BehindTheScenes #WebDesign #Tunisie #Craft",
+      "alt_text": "Reel calme ambient noir : respiration d'une interface en construction, textes courts.",
+      "dm_keyword": "Envoie 'PROJET' en DM pour voir le résultat.",
+      "hashtags": [
+        "#BehindTheScenes",
+        "#WebDesign",
+        "#Tunisie",
+        "#Craft"
+      ],
+      "assets": {
+        "video": "media/reels/D24-behind-build/final.mp4",
+        "cover": "media/reels/D24-behind-build/cover.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 25,
+      "slug": "bts-stack",
+      "kind": "IMAGE",
+      "date": "2026-11-12",
+      "time_tunis": "12:30",
+      "time_utc": "11:30",
+      "title": "Poster : notre stack, sans mystère",
+      "caption": "Le stack que l'on utilise n'est pas un secret — le craft l'est encore moins :\n\n· pipeline de render propre\n· fonts locales, licence claire\n· tests de vitesse + QC visuelle\n· un rendu vérifié avant livraison\n\nLe musicien, pas les instruments, fait la musique.\n\n#BehindTheScenes #WebDesign #Tunisie #Craft",
+      "alt_text": "Poster violet listant de façon honnête le stack de travail utilisé.",
+      "dm_keyword": "Envoie 'STACK' en DM si tu veux le détail technique.",
+      "hashtags": [
+        "#BehindTheScenes",
+        "#WebDesign",
+        "#Tunisie",
+        "#Craft"
+      ],
+      "assets": {
+        "image": "media/graphics/D25-bts-stack/01-rows.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 26,
+      "slug": "trois-erreurs",
+      "kind": "REELS",
+      "date": "2026-11-13",
+      "time_tunis": "19:00",
+      "time_utc": "18:00",
+      "title": "3 erreurs qui tuent ton site",
+      "caption": "Trois erreurs vues chaque semaine :\n\n1. Photos plein format qui en 4 Mo qui traînent\n2. Menu qui disparaît sur mobile\n3. Zéro bouton de contact\n\nSi ton site en a une : ce n'est pas grave. C'est corrigeable.\n\nEnvoie 'FIX' en DM ↓\n\n#ErreursSites #WebDesign #Tunisie #UX",
+      "alt_text": "Reel noir listant 3 erreurs web courantes avec corrections.",
+      "dm_keyword": "Envoie 'FIX' en DM — on te dit si ton site fait l'une des trois.",
+      "hashtags": [
+        "#ErreursSites",
+        "#WebDesign",
+        "#Tunisie",
+        "#UX"
+      ],
+      "assets": {
+        "video": "media/reels/D26-trois-erreurs/final.mp4",
+        "cover": "media/reels/D26-trois-erreurs/cover.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 27,
+      "slug": "ce-que-tu-recois",
+      "kind": "IMAGE",
+      "date": "2026-11-14",
+      "time_tunis": "12:30",
+      "time_utc": "11:30",
+      "title": "Poster : ce que tu reçois à la livraison",
+      "caption": "À la livraison, tu recevras :\n\n✅ Maquette validée avant le code\n✅ Site en ligne — aux données à TON nom\n✅ Accès et code qui t'appartiennent\n✅ Doc d'usage simple\n✅ Une période de corrections — écrite, pas promis à l'oral\n\nEnvoie 'LIVRAISON' en DM ↓\n\n#WebDesign #Tunisie #Transparence #Livraison",
+      "alt_text": "Poster papier listant tout ce que le client reçoit à la livraison d'un site.",
+      "dm_keyword": "Envoie 'LIVRAISON' en DM pour la liste complète.",
+      "hashtags": [
+        "#WebDesign",
+        "#Tunisie",
+        "#Transparence",
+        "#Livraison"
+      ],
+      "assets": {
+        "image": "media/graphics/D27-ce-que-tu-recois/01-checks.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 28,
+      "slug": "poll-site-insta",
+      "kind": "IMAGE",
+      "date": "2026-11-15",
+      "time_tunis": "21:00",
+      "time_utc": "20:00",
+      "title": "Question du jour : Site d'abord ou Insta d'abord ?",
+      "caption": "Si tu ne devais lancer qu'un seul : site ou Instagram ?\n\nDis-le en commentaire — le vrai échange compte plus que la réponse prête ⤵\n\n(Indice de ceux qui nous lisent chaque jour : notre avis mode d'emploi te l'explique aux DM.)\n\nSite walla Insta ? Jaweb fi commentaire.\n\n#Poll #Tunisie #BusinessTn #InstagramVsSite",
+      "alt_text": "Poster noir posant la question site d'abord ou Instagram d'abord, en deux case A/B.",
+      "dm_keyword": "Dis en commentaire : SITE ou INSTA — et pourquoi.",
+      "hashtags": [
+        "#Poll",
+        "#Tunisie",
+        "#BusinessTn",
+        "#InstagramVsSite"
+      ],
+      "assets": {
+        "image": "media/graphics/D28-poll-site-insta/01-cover.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 29,
+      "slug": "offre-closing",
+      "kind": "REELS",
+      "date": "2026-11-16",
+      "time_tunis": "19:00",
+      "time_utc": "18:00",
+      "title": "Ta maquette gratuite — avant d'engager quoi que ce soit",
+      "caption": "La maquette de concept est gratuite. La charge mentale de choisir un prestataire, elle, t'est épargnée.\n\nTu vois d'abord. Tu décides après.\n\nEnvoie 'SITE' en DM ↓\n\nMaquette concept, gratuit, sans engagement. Tchouf awwel, tkhtar ba3d. 'SITE' fi DM.\n\n#Offre #WebDesign #Tunisie #MaquetteGratuite #BusinessTn",
+      "alt_text": "Reel noir de clôture : montage des plus belles scènes, endcard CTA lime.",
+      "dm_keyword": "Envoie 'SITE' en DM.",
+      "hashtags": [
+        "#Offre",
+        "#WebDesign",
+        "#Tunisie",
+        "#MaquetteGratuite",
+        "#BusinessTn"
+      ],
+      "assets": {
+        "video": "media/reels/D29-offre-closing/final.mp4",
+        "cover": "media/reels/D29-offre-closing/cover.jpg"
+      },
+      "status": "planned"
+    },
+    {
+      "day": 30,
+      "slug": "wrap-30-raisons",
+      "kind": "IMAGE",
+      "date": "2026-11-17",
+      "time_tunis": "19:00",
+      "time_utc": "18:00",
+      "title": "30 jours, 30 raisons d'avoir ton site",
+      "caption": "30 jours. 30 raisons. Un seul objectif : que ton business arrête de laisser ses clients aux plateformes.\n\nTu as raté des jours ? Envoie '30' en DM — la liste complète part direct.\n\n(Cette campagne a été construite pixel par pixel par l'équipe elle-même.)\n\n#30Jours #Tunisie #BusinessTn #SiteWeb",
+      "alt_text": "Poster noir de clôture de campagne récapitulant 30 raisons d'avoir un site.",
+      "dm_keyword": "Tu as raté des jours ? Envoie '30' en DM — je t'envoie la liste complète.",
+      "hashtags": [
+        "#30Jours",
+        "#Tunisie",
+        "#BusinessTn",
+        "#SiteWeb"
+      ],
+      "assets": {
+        "image": "media/graphics/D30-wrap-30-raisons/01-cover.jpg"
+      },
+      "status": "planned"
+    }
+  ]
+}

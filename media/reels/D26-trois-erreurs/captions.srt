@@ -1,0 +1,19 @@
+1
+00:00:00,250 --> 00:00:02,139
+Trois erreurs vues chaque semaine.
+
+2
+00:00:02,850 --> 00:00:04,700
+Photos plein format qui traînent.
+
+3
+00:00:05,350 --> 00:00:07,350
+Un menu invisible sur mobile.
+
+4
+00:00:07,350 --> 00:00:08,980
+Aucun bouton de contact.
+
+5
+00:00:09,350 --> 00:00:12,380
+Ce n'est pas grave. C'est corrigeable.

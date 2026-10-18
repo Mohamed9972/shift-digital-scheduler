@@ -1,0 +1,19 @@
+1
+00:00:00,250 --> 00:00:01,810
+Ceci est un vrai projet.
+
+2
+00:00:02,850 --> 00:00:06,460
+Écran réel, navigation réelle, interface réelle.
+
+3
+00:00:06,000 --> 00:00:07,560
+Pas une maquette imaginaire.
+
+4
+00:00:08,200 --> 00:00:10,010
+Projet client — lecture seule.
+
+5
+00:00:09,900 --> 00:00:12,600
+Shift Digital construit ça — pour toi aussi.

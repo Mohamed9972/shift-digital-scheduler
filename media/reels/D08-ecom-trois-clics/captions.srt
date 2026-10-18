@@ -1,0 +1,19 @@
+1
+00:00:00,250 --> 00:00:02,620
+Une boutique en ligne, c'est trois choses.
+
+2
+00:00:04,200 --> 00:00:05,560
+Un catalogue propre.
+
+3
+00:00:06,700 --> 00:00:07,890
+Un panier simple.
+
+4
+00:00:09,200 --> 00:00:10,430
+Un paiement clair.
+
+5
+00:00:11,700 --> 00:00:13,690
+Rien de réservé aux grandes marques.

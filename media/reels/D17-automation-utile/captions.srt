@@ -1,0 +1,23 @@
+1
+00:00:00,250 --> 00:00:01,550
+Trois tâches qui partent.
+
+2
+00:00:02,850 --> 00:00:04,810
+Récap automatique des commandes.
+
+3
+00:00:05,350 --> 00:00:06,720
+Rappel des rendez-vous.
+
+4
+00:00:07,350 --> 00:00:09,840
+Réponses instantanées aux questions répétées.
+
+5
+00:00:09,350 --> 00:00:11,570
+L'automatisation, c'est concret.
+
+6
+00:00:11,350 --> 00:00:12,760
+C'est du travail en moins.

@@ -1,0 +1,396 @@
+{
+  "reels": {
+    "D01-ig-limites/final.mp4": {
+      "sha256": "4123a92dbcd38bb67facaeef49884f9f168f0ea9729d62bd5521c71df1dfe07f",
+      "size": 7232361
+    },
+    "D01-ig-limites/cover.jpg": {
+      "sha256": "1101208df36e97997d388e9b00e1b4e22ec4229bc53f6e432a2998d97b0bb21c",
+      "size": 50290
+    },
+    "D01-ig-limites/caption.txt": {
+      "sha256": "e2f9ec7db7d9c3a4b51adee6beda6a1964e5365b4ede0de63968958ecb6a9772",
+      "size": 251
+    },
+    "D01-ig-limites/captions.srt": {
+      "sha256": "50b6b90ec53e5ae640a033e7a3f56e42f0cd86dec4f7dd2039665c1f403ab2fc",
+      "size": 292
+    },
+    "D05-resto-menu/final.mp4": {
+      "sha256": "6565eb6a04e8e56ea8f599d83c5cca13636894810cbbf9ad736192a4e71aadad",
+      "size": 5902954
+    },
+    "D05-resto-menu/cover.jpg": {
+      "sha256": "01677f151331f33294cb9588a791789dfaa7275b4a26a120b9bb9d6fd936b4a6",
+      "size": 42347
+    },
+    "D05-resto-menu/caption.txt": {
+      "sha256": "78cd5d485a75d8c253ff6bf38b514fe22efe68c3619f22cf617642f3a159db8a",
+      "size": 337
+    },
+    "D08-ecom-trois-clics/final.mp4": {
+      "sha256": "176d06c45a5cfce1cb67b1fd58348541fdc29a1a8793a6f2a4772b5141024683",
+      "size": 8976440
+    },
+    "D08-ecom-trois-clics/cover.jpg": {
+      "sha256": "9cf21b6b1a1858fb07524402068ce66e1fd6038e535d3387c33c61c2b005d69b",
+      "size": 62419
+    },
+    "D08-ecom-trois-clics/caption.txt": {
+      "sha256": "a2c5d14a6436ea65e844a4f81c979ff08f54e48c7a2d9d60803c8378b0340d3c",
+      "size": 232
+    },
+    "D08-ecom-trois-clics/captions.srt": {
+      "sha256": "f6ff559ee40cb3f07688df97ad1f060b2e14bfc39aefd965ed634fa3cec6315e",
+      "size": 304
+    },
+    "D10-derja-tounsi/final.mp4": {
+      "sha256": "7c5fe30489a1087645291425637a0c9b5d074dee3a5138a32793e35d11e19696",
+      "size": 4601781
+    },
+    "D10-derja-tounsi/cover.jpg": {
+      "sha256": "6bf1346e50fa0da3f96367bab9d19c99b051b0cbc1d566a263da7d889b2dc840",
+      "size": 33976
+    },
+    "D10-derja-tounsi/caption.txt": {
+      "sha256": "cd41e9de36b1a11194ff9914192820ab266903e11af6cdd259e1972458f4e7f7",
+      "size": 346
+    },
+    "D12-projet-reel/final.mp4": {
+      "sha256": "379bb0c5845c4bc8ed5d45eaa6e447739dfaaf4545856ab69785b83bc883606a",
+      "size": 10907899
+    },
+    "D12-projet-reel/cover.jpg": {
+      "sha256": "2ba56cb6f95195f470e355ae36a10337a189461d88b751061650715b2e8145cb",
+      "size": 45830
+    },
+    "D12-projet-reel/caption.txt": {
+      "sha256": "c769f87db8a8a17b05f4ff619e44c1639ec37619c2bfab97dba25edb4f598626",
+      "size": 213
+    },
+    "D12-projet-reel/captions.srt": {
+      "sha256": "2ade7c7f7ffea4f724db80168f4e672b362d9c17eb40d7692716dff64b30151d",
+      "size": 352
+    },
+    "D15-trois-secondes/final.mp4": {
+      "sha256": "b920d9f228ebe9ffdcc24acd2ef588e62d0ee85a1f50db2027b71faebca3d766",
+      "size": 6757967
+    },
+    "D15-trois-secondes/cover.jpg": {
+      "sha256": "d9aa8151220c4f43be5c346e42c88511116ae8836ce4aa2082a8759d0b5e74be",
+      "size": 47704
+    },
+    "D15-trois-secondes/caption.txt": {
+      "sha256": "b8393383937c9ca849efc4f5b56d51a622b116335128970d9e8d2eb484475851",
+      "size": 253
+    },
+    "D15-trois-secondes/captions.srt": {
+      "sha256": "49e01de302860960fdcba95c13b4d0ab80268401953ee822ae765ae7e2770763",
+      "size": 266
+    },
+    "D17-automation-utile/final.mp4": {
+      "sha256": "dc3f184ae00826621f6a66b60c767d71427532c9ad19fc88e44dd68264239595",
+      "size": 9058527
+    },
+    "D17-automation-utile/cover.jpg": {
+      "sha256": "d9469ca6e764d22471069c11b650f51e4619fffd059c88dad4f88da72a863c82",
+      "size": 47943
+    },
+    "D17-automation-utile/caption.txt": {
+      "sha256": "aa78b0dd704c8bd4491073e72b6f4ae9b4601b5b95f5bb9369b3d3daa9858e78",
+      "size": 280
+    },
+    "D17-automation-utile/captions.srt": {
+      "sha256": "058b1f7a938969f19ce7f9789de22e6d4e979787be2b1cb20ce478ad2a57c5f5",
+      "size": 393
+    },
+    "D19-hotel-plan/final.mp4": {
+      "sha256": "bab6d7fb2e0845a5d064bdc4c0d0a4758dc55b40063c46355ae07a7dae50f52c",
+      "size": 5327787
+    },
+    "D19-hotel-plan/cover.jpg": {
+      "sha256": "5f679ede2b27fb33bf9eb3b3c9f82a5bea71d8d490235c4d4c0c5cda519fcc0d",
+      "size": 35529
+    },
+    "D19-hotel-plan/caption.txt": {
+      "sha256": "8b7911fc00f226a124c0ddeffc176d9ed70a9ef7793661fd1713ac407735a531",
+      "size": 286
+    },
+    "D22-immobilier/final.mp4": {
+      "sha256": "0fa2a13d7becf0385ebf07ce3799a8218c6b6d8efbc14d4ece9493f53600c4f0",
+      "size": 6959944
+    },
+    "D22-immobilier/cover.jpg": {
+      "sha256": "294f3c9cc9db23ad908d81f54a9f5af76cf87c462e2fb753bdc6f01249f34353",
+      "size": 52469
+    },
+    "D22-immobilier/caption.txt": {
+      "sha256": "226645bcf6e8b079a811e37c9c0d61b67881df310c9e2424e3b831e1363fffcf",
+      "size": 256
+    },
+    "D22-immobilier/captions.srt": {
+      "sha256": "ab99d5280595ea2f5209bfd128b4eb01c69f97c5218a12659550344c76189b4b",
+      "size": 335
+    },
+    "D24-behind-build/final.mp4": {
+      "sha256": "69691b92cb2a53762ea8aff0035800f215b5d602971a301ce2b79bf20c3f476c",
+      "size": 5673075
+    },
+    "D24-behind-build/cover.jpg": {
+      "sha256": "acb70907f3580699610d6d83e26b471b372d93ed41b4795a4ad1f88bd9ffd684",
+      "size": 43094
+    },
+    "D24-behind-build/caption.txt": {
+      "sha256": "0a4d051023dd96e30d8d82a5b1c92ea2fe5219a485696d1ae4869f9412b54599",
+      "size": 236
+    },
+    "D26-trois-erreurs/final.mp4": {
+      "sha256": "19ee1a06e3233f65d26f25688ce4c74ffad13277daa7cb56b78f84145f3db713",
+      "size": 8452368
+    },
+    "D26-trois-erreurs/cover.jpg": {
+      "sha256": "bab44daaccd5c454e0fbd2df8577bcaa233ceb7be63aedc303c5335ab63c57d0",
+      "size": 64341
+    },
+    "D26-trois-erreurs/caption.txt": {
+      "sha256": "09bba7f84e5989d0caf691742edf5f3880d0a56060813ffb01f59e618866c7c7",
+      "size": 284
+    },
+    "D26-trois-erreurs/captions.srt": {
+      "sha256": "421eba7300929ebb5f4f8635a297f44c175e347843707aeebc27e67d5e1e0274",
+      "size": 328
+    },
+    "D29-offre-closing/final.mp4": {
+      "sha256": "1eb708636fdfe3cd7793bc082361fa5971ab8d5df720372269c128a4dff4f912",
+      "size": 7198281
+    },
+    "D29-offre-closing/cover.jpg": {
+      "sha256": "1691271853dcfd2ba3b697370cb75b3d22460db006825208b524caf2b391905a",
+      "size": 63688
+    },
+    "D29-offre-closing/caption.txt": {
+      "sha256": "71166ec1bd1bda2b031205fc657a7a95401a07966ed034f91b3b3717c09df5cf",
+      "size": 325
+    },
+    "D29-offre-closing/captions.srt": {
+      "sha256": "cb1505a1e9b52e11d5c02373b0753df0517120d7ed11a2b049147de092df703e",
+      "size": 328
+    }
+  },
+  "images": {
+    "D03-quote-24-7/01-cover.jpg": {
+      "sha256": "9b7526ded704cc1747059a082cc1fbc7a304e5c78c49aece09988614845f08a5",
+      "size": 110478
+    },
+    "D07-demo-live-salim/01-image.jpg": {
+      "sha256": "5fa420d65dfee942e9618ac986824f87f9b9bcbcc56cabd8ea44982e64aad4b6",
+      "size": 148818
+    },
+    "D13-demo-live-artpsy/01-image.jpg": {
+      "sha256": "2357ca31024fe5602444864595a2bbdbd8b55615c4351f7dfc5462fa2b869913",
+      "size": 156064
+    },
+    "D14-offre-maquette/01-cover.jpg": {
+      "sha256": "6c6e60c3224ee5cbb35595adb51fc81a9ffbb41209a6eca0c8bf8d936971600d",
+      "size": 136787
+    },
+    "D20-erreurs-typo/01-rows.jpg": {
+      "sha256": "2a7b0e4c1be3dbe1cd996ebec40100759384b79309970cee57e05366852a545a",
+      "size": 94123
+    },
+    "D21-speed-checklist/01-checks.jpg": {
+      "sha256": "f06931c4b2a5147f3636684597ae203604d170341cd92b064cf496f554e31675",
+      "size": 106397
+    },
+    "D25-bts-stack/01-rows.jpg": {
+      "sha256": "23fe5805733cd9cea3fa40e51862b802af2136603bf94ddc552be451f1ea4188",
+      "size": 167314
+    },
+    "D27-ce-que-tu-recois/01-checks.jpg": {
+      "sha256": "6303b06a49f4fd6b9a97dc24dbad28732febcbd03c7c069700e443d6bd3781ae",
+      "size": 100902
+    },
+    "D28-poll-site-insta/01-cover.jpg": {
+      "sha256": "4cda0de170cef509d61015ed1d9877657cef5887ccde07d7191299b62aa10947",
+      "size": 100211
+    },
+    "D30-wrap-30-raisons/01-cover.jpg": {
+      "sha256": "82e59f229528bec31a89e225007bd1deec22441bcfd6b22081518f80d97f0e6c",
+      "size": 99794
+    }
+  },
+  "carousels": {
+    "D02-ig-only-limites/01-cover.jpg": {
+      "sha256": "b86d2106eadcdade7419f64cd8ec461edb8a6c90b0363065d743362410db4340",
+      "size": 99368
+    },
+    "D02-ig-only-limites/02-rows.jpg": {
+      "sha256": "bc64d6d2f2692a9a1b0ba1852d0f48ac8059c9868ac07848b12e4b0610c72a22",
+      "size": 104452
+    },
+    "D02-ig-only-limites/03-rows.jpg": {
+      "sha256": "5e2a1d3763d79c2f93093e189b6a4afb286ee8c9f452918ba5577e363be5408e",
+      "size": 82841
+    },
+    "D02-ig-only-limites/04-statement.jpg": {
+      "sha256": "99da47cf9cdbbbb440fede3d9fa80f290608256ebd98474866e90b117fcc8a91",
+      "size": 87558
+    },
+    "D02-ig-only-limites/05-end.jpg": {
+      "sha256": "358050b7e20cb308a1ba6d8f6ae1a9bf0675809b30362e740903d974a2f5df4f",
+      "size": 73376
+    },
+    "D04-ecommerce-checklist/01-cover.jpg": {
+      "sha256": "1d313c180c195c17a022289f1ce43cd29d0ea403815f8562f8bf49ed973caf48",
+      "size": 99211
+    },
+    "D04-ecommerce-checklist/02-checks.jpg": {
+      "sha256": "11075ab85d6bb713ccbf6c6339b7c83c21c25975f632bb95c26e6a472ac6651f",
+      "size": 73995
+    },
+    "D04-ecommerce-checklist/03-checks.jpg": {
+      "sha256": "aad90bfa075fd88bc988d17767cba7a4b0aa9bddcc0e629d19291373bf215eaa",
+      "size": 74682
+    },
+    "D04-ecommerce-checklist/04-statement.jpg": {
+      "sha256": "f66a70ba4765b875cbad6b9dda4e16610ba3cac8bf12cd270c4e36c2f67f2db9",
+      "size": 98581
+    },
+    "D04-ecommerce-checklist/05-end.jpg": {
+      "sha256": "daa409aaccf04c8c6452dee4360d52f4061e0f6a498943530d8373c8a345a125",
+      "size": 75311
+    },
+    "D06-resto-essentials/01-cover.jpg": {
+      "sha256": "53644c6ca7764bce199bf01c49f8b1794722f91e487fb31c72ecc9367425853d",
+      "size": 96198
+    },
+    "D06-resto-essentials/02-rows.jpg": {
+      "sha256": "dd2eff4b13054dc07cf192735dcb055c502885b399038c624275c03c150c0b9e",
+      "size": 102152
+    },
+    "D06-resto-essentials/03-rows.jpg": {
+      "sha256": "d4c87b8385577c65b508dd0caddad070478a8d3f4cf44e924af3afeaa113775f",
+      "size": 94091
+    },
+    "D06-resto-essentials/04-statement.jpg": {
+      "sha256": "0d8809c555b18387808882863004929b243ecc9f856ccc7b25076023533a079f",
+      "size": 73991
+    },
+    "D06-resto-essentials/05-end.jpg": {
+      "sha256": "e59e662b2819c5153dc5cb4c9fa1683a05542e155e6d41666bf8c7ff276ee60a",
+      "size": 72808
+    },
+    "D09-site-lent-causes/01-cover.jpg": {
+      "sha256": "d33c7e0fa699fbcf4c4c3b9b1688b543f7797a621eae42194a82699989f32f07",
+      "size": 106034
+    },
+    "D09-site-lent-causes/02-rows.jpg": {
+      "sha256": "d0e183d0949a47c34e832a980e7f169416342680e812b07a9e868ed182f781a6",
+      "size": 137920
+    },
+    "D09-site-lent-causes/03-rows.jpg": {
+      "sha256": "1ab9b113786aff3159e45a6e588cfcd73198964eba580654f26ef89099c46595",
+      "size": 108459
+    },
+    "D09-site-lent-causes/04-statement.jpg": {
+      "sha256": "88a0213067f9b8e16e7195a952d1afb9c09e1b4225943e1de2e9ad29016c30f6",
+      "size": 123328
+    },
+    "D09-site-lent-causes/05-end.jpg": {
+      "sha256": "cddddd13c1627648c0e4642586d6a98f4c8bfe82c69227ede673179cf69491a0",
+      "size": 85552
+    },
+    "D11-catalogue-6-etapes/01-cover.jpg": {
+      "sha256": "f014aa0dda703b3d090576554fce3697f94049727f7a9971e80340bf508f4267",
+      "size": 108949
+    },
+    "D11-catalogue-6-etapes/02-steps.jpg": {
+      "sha256": "8b76e75b1336490fb4c62325195c17fa8fd4b2fa8905f73ea2152ef1b5cb5133",
+      "size": 96115
+    },
+    "D11-catalogue-6-etapes/03-steps.jpg": {
+      "sha256": "fc6431f3efa2d6cfc6ad7beef974825deb183dc86ac13332d72d8a19224df9a3",
+      "size": 79655
+    },
+    "D11-catalogue-6-etapes/04-statement.jpg": {
+      "sha256": "8bddf479a16a62c29beddbc44374ba37f2377b0e10d091e4de9c4d32b7c7c644",
+      "size": 105841
+    },
+    "D11-catalogue-6-etapes/05-end.jpg": {
+      "sha256": "4cd92090ce522a8991007bf3fd9c8b2af7b26df746af6ba302928300a8ef94b0",
+      "size": 72555
+    },
+    "D16-automatisations-3/01-cover.jpg": {
+      "sha256": "be156daa63fefee5e60b7ee71786c340a1bb31cea9e3401795c2186f12ea0dc1",
+      "size": 118948
+    },
+    "D16-automatisations-3/02-rows.jpg": {
+      "sha256": "1823f805811feae6786a2ac900fa2ebbe00aeb3c600c3d09921baef429d58b8d",
+      "size": 144929
+    },
+    "D16-automatisations-3/03-statement.jpg": {
+      "sha256": "6a0ea059ce352a699196ccfacc00f0112c51a53c3d9f4fa9741d10381fa71fdb",
+      "size": 140256
+    },
+    "D16-automatisations-3/04-steps.jpg": {
+      "sha256": "a39a40e07758118d76684245c0997bd193691defcf6802c6b1bbe86f2e09dca4",
+      "size": 103258
+    },
+    "D16-automatisations-3/05-end.jpg": {
+      "sha256": "2b0a06571524c685b6bdf04bbb41448d933a8420a8ebdc66bf89f8aa17b0a660",
+      "size": 87919
+    },
+    "D18-cahier-des-charges/01-cover.jpg": {
+      "sha256": "e1907424cc7b1da557fc0c26020d36028cbba5e20914f4265a9b1b03b816245b",
+      "size": 115097
+    },
+    "D18-cahier-des-charges/02-compare.jpg": {
+      "sha256": "26384a6ba7e540064a0af6b1e811ed7d1997406acbf0a1f68c0f7fafbe8ab154",
+      "size": 100210
+    },
+    "D18-cahier-des-charges/03-checks.jpg": {
+      "sha256": "ecb7af34ff9141c4582a8faad2dd9c3d6b7e904d69b8163ead541f819bef8cb3",
+      "size": 77772
+    },
+    "D18-cahier-des-charges/04-checks.jpg": {
+      "sha256": "d63fcc4b21e40fae492c138be749fe70622d439f1f896e84b2cea00eb0bc8246",
+      "size": 79209
+    },
+    "D18-cahier-des-charges/05-statement.jpg": {
+      "sha256": "4254706411bcbbe4ff97b870506709e859a3f9e4a0c0a0cc6a8ad828cae12122",
+      "size": 119713
+    },
+    "D18-cahier-des-charges/06-end.jpg": {
+      "sha256": "6fd11b10b9d70bf3ad76bcb723c7e90e862c78e2cf038a9f33c3c0bdebfd7d8a",
+      "size": 74280
+    },
+    "D23-choisir-prestataire/01-cover.jpg": {
+      "sha256": "5a757a2fb7bfccfeb1a9defd4533cffdbba2b1c84650c9f23a0c0249ab9c2e4b",
+      "size": 119036
+    },
+    "D23-choisir-prestataire/02-rows.jpg": {
+      "sha256": "f2b2fe5a432917d64d3e8e2cbe06ce1913d675d21047f949be59253c846b9a84",
+      "size": 104080
+    },
+    "D23-choisir-prestataire/03-rows.jpg": {
+      "sha256": "18befbf38f3885ce18d73363fb5000654168f0622c2b0d403b2f62d25f405c57",
+      "size": 101579
+    },
+    "D23-choisir-prestataire/04-rows.jpg": {
+      "sha256": "e36bd7317a03f34aeb9f13841c4a7eb0acdba6c93515446586028c7cb2773b4e",
+      "size": 102681
+    },
+    "D23-choisir-prestataire/05-rows.jpg": {
+      "sha256": "d5bbdc79527a068083c2e8b97228a69d3073a434ada9a7133db2665509d39729",
+      "size": 66436
+    },
+    "D23-choisir-prestataire/06-statement.jpg": {
+      "sha256": "2021cf7cd1e7455d905a241d3b44931968c4e43be3cc287326469163c6b5a632",
+      "size": 102155
+    },
+    "D23-choisir-prestataire/07-end.jpg": {
+      "sha256": "eae78f26bdbadf16db3bd49d2a208f7d6585b63ead9c833d99d6d5db9e3eb5aa",
+      "size": 71805
+    }
+  }
+}

@@ -1,0 +1,19 @@
+1
+00:00:00,250 --> 00:00:02,750
+Ton client choisit son bien avant de visiter.
+
+2
+00:00:02,850 --> 00:00:05,660
+Photos, quartier, surface — en ligne.
+
+3
+00:00:05,250 --> 00:00:06,910
+Et un rendez-vous en un clic.
+
+4
+00:00:07,350 --> 00:00:08,550
+Avec ou sans toi.
+
+5
+00:00:11,250 --> 00:00:13,220
+Ton site fait la moitié du travail.
