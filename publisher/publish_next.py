@@ -25,6 +25,7 @@ import json
 import os
 import re
 import sys
+import urllib.request
 from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8", errors="backslashreplace")
@@ -178,6 +179,7 @@ def publish_reel(item, g, repo_root, dry):
     rel_video = item["assets"]["video"]
     video = repo_root / rel_video
     cover_rel = item["assets"].get("cover")
+    fb_page_id = item.get("facebook_page_id")
     if dry:
         log(f"[reel] DRY would upload {rel_video} via rupload")
         return {"planned": True, "video": rel_video}
@@ -197,7 +199,57 @@ def publish_reel(item, g, repo_root, dry):
         raise RuntimeError(f"reel container status = {st}")
     pub = _retry(lambda: g.post(f"{g._session['ig_user_id']}/media_publish",
                                 data={"creation_id": cid}), 3)
-    return {"media_id": pub["id"], "container_id": cid}
+    ig_media_id = pub["id"]
+    log(f"[reel] Instagram published: {ig_media_id}")
+    # Cross-post to Facebook if page_id configured
+    fb_media_id = None
+    if fb_page_id:
+        fb_media_id = publish_to_facebook_reel(g, fb_page_id, str(video), item["caption"])
+    return {"media_id": ig_media_id, "container_id": cid, "fb_media_id": fb_media_id}
+
+
+def publish_to_facebook_reel(g, page_id, video_path, caption):
+    """Publish the same video to Facebook Page as a Reel using the standard video API."""
+    import os
+    log(f"[fb] cross-posting to Page {page_id}")
+    if not os.path.exists(video_path):
+        log(f"[fb] video not found: {video_path}")
+        return None
+    size = os.path.getsize(video_path)
+    # Use the standard video upload to Page
+    # First, start a resumable upload session
+    cont = _retry(lambda: g.post(f"{page_id}/videos",
+        data={"upload_phase": "start", "file_size": str(size)}), 3)
+    fb_video_id = cont.get("video_id") or cont.get("id")
+    upload_url = cont.get("upload_url") or cont.get("uri")
+    if not fb_video_id or not upload_url:
+        log(f"[fb] failed to create upload session: {cont}")
+        return None
+    log(f"[fb] upload session {fb_video_id}")
+    # Upload video bytes
+    req_headers = {
+        "Authorization": f"OAuth {g._session['token']}",
+        "offset": "0",
+        "file_size": str(size),
+        "Content-Type": "application/octet-stream",
+        "User-Agent": "shift-digital-scheduler/1.0"
+    }
+    data = open(video_path, "rb").read()
+    req = urllib.request.Request(upload_url, data=data, headers=req_headers, method="POST")
+    try:
+        with urllib.request.urlopen(req, timeout=300) as resp:
+            body = resp.read().decode("utf-8")
+            log(f"[fb] upload response: {body[:200]}")
+    except Exception as e:
+        log(f"[fb] upload failed: {e}")
+        return None
+    # Finish upload and publish as Reel
+    pub = _retry(lambda: g.post(f"{page_id}/videos",
+        data={"upload_phase": "finish", "video_id": fb_video_id, "description": caption,
+              "published": "true", "is_reel": "true"}), 3)
+    fb_media_id = pub.get("id") or pub.get("video_id")
+    log(f"[fb] Facebook Reel published: {fb_media_id}")
+    return fb_media_id
 
 
 def publish_image(item, g, repo_root, dry):
@@ -435,6 +487,7 @@ def main():
     rec = {"slug": item["slug"], "day": item["day"], "kind": kind,
            "media_id": result["media_id"],
            "container_id": result.get("container_id"),
+           "fb_media_id": result.get("fb_media_id"),
            "permalink": perm.get("permalink"),
            "published_at_utc": now_utc().isoformat(),
            "published_at_tunis": to_tunis(now_utc()).isoformat(),
@@ -442,8 +495,10 @@ def main():
     state.setdefault("published", {})[item["slug"]] = rec
     save_state(state)
     log(f"[receipt] {item['slug']} media_id={rec['media_id']} "
+        f"fb_media_id={rec.get('fb_media_id') or 'none'} "
         f"permalink={rec.get('permalink') or '(fetch pending)'}")
-    summary(f"Published `{item['slug']}` -> media `{rec['media_id']}` "
+    summary(f"Published `{item['slug']}` -> IG `{rec['media_id']}` "
+            f"FB `{rec.get('fb_media_id') or 'none'}` "
             f"{rec.get('permalink') or '(permalink pending)'}")
     return 0
 
